@@ -28,3 +28,8 @@ print(type(f"{2 * 30 }")) # checking which type is
 
 # only print f string (print the txt blew )
 print(f" we use f-strings like this : hey my name is {{name}} and I am from {{country}}")
+
+print("_________________________________________________________________________________")
+# now we writting the f string in the given below
+
+
